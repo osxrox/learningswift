@@ -1,3 +1,5 @@
 var myFirstChange = "This is the first change to this file"
 
-var mySecondChange = 1.568
+func addTwoNumbers(numA: Int, numB: Int) -> Int {
+    return numA + numB
+}
